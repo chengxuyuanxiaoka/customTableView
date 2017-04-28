@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>personName</key>
+		<string>anyixuan</string>
+		<key>phoneNum</key>
+		<string>100234343</string>
+	</dict>
+	<dict>
+		<key>personName</key>
+		<string>zhaoliying</string>
+		<key>phoneNum</key>
+		<string>237839</string>
+	</dict>
+	<dict>
+		<key>personName</key>
+		<string>yuguo</string>
+		<key>phoneNum</key>
+		<string>100123456</string>
+	</dict>
+	<dict>
+		<key>personName</key>
+		<string>zhangfengyi</string>
+		<key>phoneNum</key>
+		<string>100123456789</string>
+	</dict>
+	<dict>
+		<key>personName</key>
+		<string>houzi</string>
+		<key>phoneNum</key>
+		<string>098765</string>
+	</dict>
+	<dict>
+		<key>personName</key>
+		<string>baozi</string>
+		<key>phoneNum</key>
+		<string>897644</string>
+	</dict>
+	<dict>
+		<key>personName</key>
+		<string>xian</string>
+		<key>phoneNum</key>
+		<string>912324324</string>
+	</dict>
+</array>
+</plist>
